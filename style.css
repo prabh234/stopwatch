@@ -2,7 +2,9 @@ body{
   background: black;
 }
 
-
+h1{
+  color:#CBE4DE;
+}
 
 .stopwatch{
   display: grid;
