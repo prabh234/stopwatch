@@ -4,8 +4,9 @@ body{
 
 h1{
   color:#CBE4DE;
-  font-size:3rem;
-  margin:auto;
+  font-size: 5rem;
+  display: flex;
+  justify-content: center;
 }
 
 .stopwatch{
